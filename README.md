@@ -7,7 +7,7 @@ host range, subnet mask, wildcard mask, and total/usable host counts.
 ## Why this is useful
 
 Subnetting is one of those networking fundamentals everyone in IT is
-expected to be comfortable with, but that people (myself included) still
+expected to be comfortable with, but those people (myself included) still
 double check with a calculator in the real world. This tool takes a
 single input and returns everything you'd need for network planning,
 troubleshooting, or documenting an IP scheme — the same information
